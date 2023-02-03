@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Board {
     List<String> spots;
-//test Git
+
     public Board() {
         this.spots = new ArrayList<>();
         for (int i = 0; i < 9; i++) {
